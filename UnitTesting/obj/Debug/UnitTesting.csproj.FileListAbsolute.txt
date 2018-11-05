@@ -1,7 +1,0 @@
-C:\dev\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe.config
-C:\dev\UnitTesting\UnitTesting\bin\Debug\UnitTesting.exe
-C:\dev\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
-C:\dev\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
-C:\dev\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
-C:\dev\UnitTesting\UnitTesting\obj\Debug\UnitTesting.exe
-C:\dev\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
