@@ -1,0 +1,7 @@
+[Bb]in
+[Oo]bj
+.DS_Store
+.vs
+*.user
+*.log
+*.orig
