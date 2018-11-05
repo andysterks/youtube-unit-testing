@@ -1,5 +1,6 @@
 [Bb]in
 [Oo]bj
+packages
 .DS_Store
 .vs
 *.user
