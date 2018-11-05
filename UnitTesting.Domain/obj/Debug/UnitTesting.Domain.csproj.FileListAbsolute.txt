@@ -1,0 +1,6 @@
+C:\dev\UnitTesting\UnitTesting.Domain\bin\Debug\UnitTesting.Domain.dll
+C:\dev\UnitTesting\UnitTesting.Domain\bin\Debug\UnitTesting.Domain.pdb
+C:\dev\UnitTesting\UnitTesting.Domain\obj\Debug\UnitTesting.Domain.csprojAssemblyReference.cache
+C:\dev\UnitTesting\UnitTesting.Domain\obj\Debug\UnitTesting.Domain.csproj.CoreCompileInputs.cache
+C:\dev\UnitTesting\UnitTesting.Domain\obj\Debug\UnitTesting.Domain.dll
+C:\dev\UnitTesting\UnitTesting.Domain\obj\Debug\UnitTesting.Domain.pdb

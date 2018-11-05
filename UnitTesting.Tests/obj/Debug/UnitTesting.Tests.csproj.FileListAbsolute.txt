@@ -1,0 +1,13 @@
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Tests.dll
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Tests.pdb
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\nunit.framework.dll
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\Should.dll
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Domain.dll
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\UnitTesting.Domain.pdb
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\nunit.framework.pdb
+C:\dev\UnitTesting\UnitTesting.Tests\bin\Debug\nunit.framework.xml
+C:\dev\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.csprojAssemblyReference.cache
+C:\dev\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.csproj.CoreCompileInputs.cache
+C:\dev\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.csproj.CopyComplete
+C:\dev\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.dll
+C:\dev\UnitTesting\UnitTesting.Tests\obj\Debug\UnitTesting.Tests.pdb
